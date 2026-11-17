@@ -1,0 +1,1 @@
+print("Suggested frontend sections\n1. Home Dashboard\n2. Face Recognition\n3. Familiar Person Registration\n4. OCR Text Recognition\n5. Voice Output\n6. Settings");
